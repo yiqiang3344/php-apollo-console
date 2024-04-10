@@ -1,0 +1,17 @@
+{
+  "name": "xyf/apollo-client",
+  "description": "apollo client for php",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "Apollo",
+    "Client"
+  ],
+  "require": {
+    "php": "~7.0",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-pcntl": "*",
+    "ext-posix": "*"
+  }
+}
